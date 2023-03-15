@@ -1,0 +1,10 @@
+.image {
+    
+    height: 100vh; 
+    object-fit: cover;
+    padding-bottom: 40px; 
+}
+
+.container {
+    background-color: rgba(37, 48, 18, 0.7);
+}

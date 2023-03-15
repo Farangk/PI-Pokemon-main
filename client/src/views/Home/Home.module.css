@@ -1,0 +1,14 @@
+.Container{
+    background-image: url("https://getwallpapers.com/wallpaper/full/a/8/3/312188.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 1rem;
+}
+
+.title {
+    font-family: 'Press Start 2P', cursive;
+    color:#ffff00;
+    font-weight: bold;
+    margin: auto;
+    padding:30px 10px;
+}

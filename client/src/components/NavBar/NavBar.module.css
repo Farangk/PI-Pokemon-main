@@ -1,0 +1,55 @@
+.mainContainer {
+
+ 
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around; 
+    padding: 1rem 1rem;
+    background: rgb(187, 1, 1);
+    
+
+
+    
+   
+}
+
+.linkDiv{
+background-image: url("https://wallpapercave.com/wp/ybfyfCy.jpg");
+-webkit-box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.75);
+background-size: 100% 100%;
+display: inline-block;
+padding: 10px 20px; 
+border: 1px solid rgb(40, 59, 2); 
+border-radius: 7px;
+color: #eaf0ce;
+font-size:16px ;
+font-weight: bold;
+position: relative;
+overflow: hidden; 
+text-decoration: none;
+}
+.linkDiv:hover {
+    transform: scale(1.2); 
+    transition: all 0.3s ease-in-out; 
+}
+
+.link{
+    text-decoration: none;
+    color: #ffff00;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.img1 {
+    position: absolute;
+    width: 3%;
+    left: 40px;
+}
+.img2 {
+    position: absolute;
+    width: 3%;
+    right: 40px;
+}
+
+
